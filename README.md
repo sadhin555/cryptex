@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/sadhin555/cryptex)
   ![GitHub stars](https://img.shields.io/github/stars/sadhin555/cryptex?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/sadhin555/cryptex?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sadhin555?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sadhin555?style=social)](https://twitter.com/intent/follow?screen_name=sadhin555)
 
   <br />
   <br />
